@@ -3,7 +3,7 @@ import { StyleSheet, View, Text } from "react-native";
 const Search = () => {
   return (
     <View>
-      <Text></Text>
+      <Text>Search</Text>
     </View>
   );
 };
