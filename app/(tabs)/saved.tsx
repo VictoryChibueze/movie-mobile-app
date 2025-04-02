@@ -1,11 +1,7 @@
 import { StyleSheet, View, Text } from "react-native";
 
 const Saved = () => {
-  return (
-    <View>
-      <Text>Saved</Text>
-    </View>
-  );
+  return <View className="flex-1 bg-[#000]"></View>;
 };
 
 export default Saved;
