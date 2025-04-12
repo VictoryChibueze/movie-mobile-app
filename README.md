@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+# Overview
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-## Get started
+As a software engineer focused on improving my mobile development skills, I created this movie app to explore the full workflow of building a cross-platform application with React Native. This project allowed me to strengthen my understanding of mobile UI design, REST API integration, navigation systems, and performance optimization.
+The movie app lets users browse a collection of movies, view detailed information about each film, and search for specific titles. Users can also explore trending or popular films and navigate through different categories with ease. The interface is designed to be simple and visually engaging, providing an intuitive user experience on both Android and iOS devices.
 
-1. Install dependencies
+My purpose in building this app was to gain practical experience working with APIs, managing application state, and designing a responsive UI—all while building something fun and useful.
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-   ```bash
-    npx expo start
-   ```
+[Software Demo Video](http://youtube.link.goes.here)
 
-In the output, you'll find options to open the app in a
+# Development Environment
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+•	React Native – Framework used for building the mobile application.
+•	Visual Studio Code – Primary code editor.
+•	Android Studio – Used to run and test the app on Android Emulator.
+•	Expo CLI – Used to streamline the development, testing, and deployment process.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+•	JavaScript – Core programming language for the app.
+•	TMDb API – The Movie Database API used to fetch movie data.
+•	React Native Elements / TailwindCSS – For UI components and styling 
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
+# Useful Websites
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+{Make a list of websites that you found helpful in this project}
+* [Andriod studio](https://developer.android.com)
+* [React native](https://reactnative.dev/docs/getting-started)
+* [TMDb API Docs](https://developer.themoviedb.org/docs/getting-started)
+* [Expo Documentation](https://docs.expo.dev/)
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+# Future Work
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+{Make a list of things that you need to fix, improve, and add in the future.}
+In my future work , I will add:
+•	Add user authentication and ability to save favorite movies.
+•	Improve the UI with animations and transitions.
+•	Add user ratings , reviews, or comment sections for user interaction.
+•	Include pagination or infinite scroll for better data loading.
+•	Optimize for offline support using local storage or caching.
